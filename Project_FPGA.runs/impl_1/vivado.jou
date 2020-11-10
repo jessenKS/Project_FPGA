@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Nov 10 10:48:40 2020
+# Process ID: 142976
+# Current directory: C:/Users/Jessen/Desktop/Jessen_Aula/Microcontroladores 2/Project_FPGA/Project_FPGA.runs/impl_1
+# Command line: vivado.exe -log project_fpga_code.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source project_fpga_code.tcl -notrace
+# Log file: C:/Users/Jessen/Desktop/Jessen_Aula/Microcontroladores 2/Project_FPGA/Project_FPGA.runs/impl_1/project_fpga_code.vdi
+# Journal file: C:/Users/Jessen/Desktop/Jessen_Aula/Microcontroladores 2/Project_FPGA/Project_FPGA.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source project_fpga_code.tcl -notrace
