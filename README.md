@@ -13,3 +13,6 @@ Descrição do trabalho: Utilizado os 2 botões push e 2 switches, 2 leds e 2 le
 
 - Conforme combinação dos switches os leds RGB acendem de cores diferentes.
 - Cada botão push acende um led diferente em seu pressionamento.
+
+
+![alt text](https://github.com/jessenKS/Project_FPGA/blob/main/Images/ledsArty.jpg)
