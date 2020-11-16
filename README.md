@@ -4,6 +4,8 @@ Projeto desenvolvido para a disciplina de Microcontroladores II do curso de Enge
 Hardware utilizado: placa Digilent Arty A7 35T
 
 
+![alt text](https://github.com/jessenKS/Project_FPGA/blob/main/Images/arty.jpg)
+
 
 Linguagem de programação: VHDL
 
